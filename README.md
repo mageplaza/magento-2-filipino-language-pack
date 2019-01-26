@@ -89,8 +89,11 @@ Unzip the Filipino language pack to Magento 2 root folder. In this guide, we ext
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/fil_ph
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-filipino-language-pack` to `fil_ph`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Filipino pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `fil_PH.zip` into `app/i18n/mageplaza/fil_PH/fil_PH.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fil_ph/fil_PH.csv`
+
+See this screenshot
+
+![Filipino pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
