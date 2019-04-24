@@ -117,11 +117,13 @@ To download and install Filipino pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fil_ph/fil_PH.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fil_ph/`
 
-See this screenshot
+See this screenshot:
 
 ![Filipino pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **fil_ph**
 
 #### Step 2: Flush cache
 
