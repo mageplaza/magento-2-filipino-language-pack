@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Filipino Language Pack](https://www.mageplaza.com/magento-2-filipino-language-pack.html)
 
-![Mageplaza Filipino language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Filipino language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
